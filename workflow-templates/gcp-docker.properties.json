@@ -1,0 +1,10 @@
+{
+    "name": "MycoLab Organization Workflow",
+    "description": "MycoLab Organization CI starter workflow for GCP Docker.",
+    "categories": [
+        "Docker"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
