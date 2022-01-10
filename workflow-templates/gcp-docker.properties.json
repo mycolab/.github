@@ -1,5 +1,5 @@
 {
-    "name": "MycoLab Organization Workflow",
+    "name": "MycoLab Docker Workflow",
     "description": "MycoLab Organization CI starter workflow for GCP Docker.",
     "categories": [
         "Docker"
