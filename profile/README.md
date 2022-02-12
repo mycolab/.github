@@ -1,8 +1,8 @@
-<a href="https://mycolab.org"><img src="https://raw.githubusercontent.com/mycolab/mycolab/master/images/mycolab-logo.svg" width="480"></a>
+<a href="https://mycolab.org"><img src="https://raw.githubusercontent.com/mycolab/.github/main/profile/images/mycolab-logo.svg" width="480"></a>
 
 Suite of mycology applications and tools for automating common lab workflows.
 
-- Website: https://mycolab.org
+- Website: http://mycolab.org
 - Email: <info@mycolab.org>
 - Github: https://github.com/mycolab
 - Discord: https://discord.gg/STW6wXaNBC
@@ -19,4 +19,4 @@ Suite of mycology applications and tools for automating common lab workflows.
   - [MushroomObserver](https://mushroomobserver.org)
 
 ## Architecture
-![architecture](images/architecture.png)
+![architecture](https://raw.githubusercontent.com/mycolab/.github/main/profile/images/architecture.png)
