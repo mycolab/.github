@@ -8,7 +8,7 @@ Suite of mycology applications and tools for automating common lab workflows.
 - Discord: https://discord.gg/STW6wXaNBC
 
 ## Features
-- Add specimens
+- Manage specimens
 - Search GenBank
 - Curate [FASTA](https://en.wikipedia.org/wiki/FASTA_format) files
 - Align sequences
