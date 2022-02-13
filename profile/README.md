@@ -1,8 +1,8 @@
-<a href="http://mycolab.org"><img src="https://raw.githubusercontent.com/mycolab/.github/main/profile/images/mycolab-logo.svg" width="480"></a>
+<a href="https://mycolab.org"><img src="https://raw.githubusercontent.com/mycolab/.github/main/profile/images/mycolab-logo.svg" width="480"></a>
 
 Suite of mycology applications and tools for automating common lab workflows.
 
-- Website: http://mycolab.org
+- Website: https://mycolab.org
 - Email: <info@mycolab.org>
 - Github: https://github.com/mycolab
 - Discord: https://discord.gg/STW6wXaNBC
